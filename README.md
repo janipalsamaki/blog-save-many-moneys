@@ -22,4 +22,4 @@ So, you mentioned you are looking to run your bots on Windows machines and would
 
 Unfortunately, I was only able to find these auto-scaling environments that are up only when you need them. We also seem to support running multiple accounts and bots on a single machine. The cost will be less than you expect. So sorry. If you want, you can maybe donate that leftover money to find homes for orphaned Windows servers?
 
-I'll let you know if we find can something more expensive. See you and happy automation!
+I'll let you know if we can find something more expensive. See you and happy automation!
